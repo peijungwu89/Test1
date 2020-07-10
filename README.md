@@ -1,5 +1,10 @@
 #This is a sample of my very first repo
 
-"Hello World!"
+Hello World!
 
-"See you soon!"
+See you soon!
+
+
+
+
+Second edit.
